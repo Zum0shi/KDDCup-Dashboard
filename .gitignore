@@ -1,0 +1,15 @@
+data/ObjectData/date.csv
+data/ObjectData/object.csv
+data/test/enrollment_train.csv
+data/test/FeatureVectorWithLabel.csv
+data/test/log_train.csv
+data/test/truth_train.csv
+data/train/analysis.txt
+data/train/enrollment_train.csv
+data/train/FeatureVectorWithLabel.csv
+data/train/log_train.csv
+data/train/truth_train.csv
+data/validation/enrollment_train.csv
+data/validation/FeatureVectorWithLabel.csv
+data/validation/log_train.csv
+data/validation/truth_train.csv
